@@ -1,4 +1,4 @@
-# DB Legends Co-op Farming Bot / Hyper Dimensional Coop
+# DB Legends Hyper Dimensional Coop Farming Bot
 <img width="1024" height="500" alt="image" src="https://github.com/user-attachments/assets/85fc69b0-2341-4e04-906e-cbf3b041b13c" />
 
 Script de automatizacion universal para farmear el modo de Hyperdimensional Coop de forma infinita y en bucle

@@ -18,7 +18,7 @@ Script de automatización inteligente y universal para farmear de manera infinit
 3. Quédate dentro de la pantalla del Lobby de espera (donde aparece el botón amarillo para buscar miembros o donde ya estás listo con tu compañero).
 4. Abre la terminal de tu PC y ejecuta el siguiente comando:
    
-   python main.py coop
+   python main.py farm
 
 ## 🛡️ Características de Seguridad Humana
 * El bot no usa clics en coordenadas fijas fijadas en código; calcula zonas dinámicas usando OpenCV.

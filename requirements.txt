@@ -1,0 +1,5 @@
+adbutils
+numpy
+opencv-python
+Pillow
+pytesseract

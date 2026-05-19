@@ -1,6 +1,7 @@
-# 🐉 DB Legends Co-op Farming Bot
+# DB Legends Co-op Farming Bot
+<img width="1024" height="500" alt="image" src="https://github.com/user-attachments/assets/85fc69b0-2341-4e04-906e-cbf3b041b13c" />
 
-Script de automatización inteligente y universal para farmear de manera infinita el modo Hyperdimensional Co-op en Dragon Ball Legends mediante Python y ADB.
+Script de automatizacion universal para farmear el modo de Hyperdimensional Coop de forma infinita y en bucle
 
 ## ⚙️ Requisitos e Instalación
 
@@ -14,14 +15,16 @@ Script de automatización inteligente y universal para farmear de manera infinit
 ## 🎮 Instrucciones de Uso
 
 1. Abre **Dragon Ball Legends** en tu dispositivo.
-2. Entra al modo de **Hyperdimensional Co-op** y selecciona la dificultad que deseas farmear.
-3. Quédate dentro de la pantalla del Lobby de espera (donde aparece el botón amarillo para buscar miembros o donde ya estás listo con tu compañero).
-4. Abre la terminal de tu PC y ejecuta el siguiente comando:
+2. Modifica tus cartas a las del icono default<br><br>
+<img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/51cbc2b4-df58-43a7-ae3a-aff8b46cf913" /><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/7eaba3d8-0531-4fba-b026-4679074643b0" /><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/3cf36fac-608b-477a-91d6-4950cfd34def" /><img width="40" height="40" alt="image" src="https://github.com/user-attachments/assets/d7e83a61-89fc-453c-9c8e-2714301350a7" />
+4. Entra al modo de **Hyperdimensional Co-op** y selecciona la dificultad mas facil para no necesitar Rising Rush.
+5. Quédate dentro de la pantalla del Lobby de espera (debes estar esperando a tu compañero de equipo, esto para poder ejecutarlo en bucle con un compañero).
+6. Abre la terminal de tu PC y ejecuta el siguiente comando:
    
    python main.py farm
 
-## 🛡️ Características de Seguridad Humana
-* El bot no usa clics en coordenadas fijas fijadas en código; calcula zonas dinámicas usando OpenCV.
+## 🛡️ Protecciones Anti-Ban
+* El bot no usa clics en coordenadas fijas fijadas en código; calcula zonas dinámicas de las imagenes
 * Incorpora variaciones de toque en ubicaciones píxel por píxel aleatorias para evitar detecciones de patrones repetitivos en los servidores de Bandai.
-* Alterna tiempos de respuesta aleatorios entre toques emulando retrasos de impaciencia humana.
-* Cuenta con detección inteligente multiescala, lo que significa que tus amigos lo pueden usar sin importar la marca, modelo o resolución de pantalla de sus celulares.
+* Alterna tiempos de respuesta aleatorios entre toques emulando a una persona real.
+* Cuenta con detección inteligente multiescala, lo que significa que es independiente de la marca o resolucion del telefono mientras sea Android.

@@ -1,4 +1,4 @@
-# DB Legends Co-op Farming Bot
+# DB Legends Co-op Farming Bot / Hyper Dimensional Coop
 <img width="1024" height="500" alt="image" src="https://github.com/user-attachments/assets/85fc69b0-2341-4e04-906e-cbf3b041b13c" />
 
 Script de automatizacion universal para farmear el modo de Hyperdimensional Coop de forma infinita y en bucle
@@ -8,6 +8,7 @@ Script de automatizacion universal para farmear el modo de Hyperdimensional Coop
 1. **Activar Depuración USB:** En tu teléfono Android, ve a Ajustes > Opciones de Desarrollador y activa la "Depuración USB".
 2. **Conexión:** Conecta el dispositivo a la PC mediante cable USB (Asegúrate de aceptar el mensaje de permiso que saldrá en la pantalla del celular al conectarlo).
 3. Descarga la Release 1.0 de https://github.com/Osas34091/DB-Legends-Coop-Auto-Farmer/releases/tag/Releases
+4. **Dragon Ball Legends** en español o remplaza las imagenes de /Images con tu idioma
 ---
 
 ## 🎮 Instrucciones de Uso

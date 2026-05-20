@@ -4,10 +4,14 @@ from src.legends_coop import LegendsCoopBot
 
 def print_banner():
     print("""
-    ======================================
-       DRAGON BALL LEGENDS - AUTO CO-OP
-    ======================================
+    =============================================
+           DRAGON BALL LEGENDS - AUTO CO-OP
+    =============================================
+         Desarrollado por: Osas34091 (Tu Nombre)
+           Versión 1.0 | GitHub: Osas34091
+    =============================================
     """)
+ 
 
 if __name__ == "__main__":
     print_banner()

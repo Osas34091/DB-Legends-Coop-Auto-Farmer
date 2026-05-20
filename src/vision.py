@@ -1,3 +1,9 @@
+# ==========================================================
+# Proyecto: DB Legends Co-Op Auto Farmer
+# Autor: Osas34091
+# Repositorio: https://github.com/Osas34091/DB-Legends-Coop-Auto-Farmer
+# ==========================================================
+
 import cv2
 import numpy as np
 import pytesseract

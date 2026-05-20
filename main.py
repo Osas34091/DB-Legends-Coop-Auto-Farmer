@@ -7,7 +7,7 @@ def print_banner():
     =============================================
            DRAGON BALL LEGENDS - AUTO CO-OP
     =============================================
-         Desarrollado por: Osas34091 (Tu Nombre)
+         Desarrollado por: Osas34091
            Versión 1.0 | GitHub: Osas34091
     =============================================
     """)

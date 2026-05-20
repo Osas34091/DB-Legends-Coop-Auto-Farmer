@@ -1,3 +1,9 @@
+# ==========================================================
+# Proyecto: DB Legends Co-Op Auto Farmer
+# Autor: Osas34091
+# Repositorio: https://github.com/Osas34091/DB-Legends-Coop-Auto-Farmer
+# ==========================================================
+
 from datetime import datetime
 from functools import wraps
 import time

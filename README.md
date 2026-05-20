@@ -25,3 +25,5 @@ Script de automatizacion universal para farmear el modo de Hyperdimensional Coop
 * Incorpora variaciones de toque en ubicaciones píxel por píxel aleatorias para evitar detecciones de patrones repetitivos en los servidores de Bandai.
 * Alterna tiempos de respuesta aleatorios entre toques emulando a una persona real.
 * Cuenta con detección inteligente multiescala, lo que significa que es independiente de la marca o resolucion del telefono mientras sea Android.
+---
+**Autor:** [Osas34091](https://github.com/Osas34091) | Si este proyecto te ahorró horas de farmeo, ¡considera dejarle una estrella (⭐) al repositorio!

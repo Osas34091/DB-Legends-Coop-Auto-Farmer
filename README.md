@@ -7,7 +7,7 @@ Script de automatizacion universal para farmear el modo de Hyperdimensional Coop
 
 1. **Activar Depuración USB:** En tu teléfono Android, ve a Ajustes > Opciones de Desarrollador y activa la "Depuración USB".
 2. **Conexión:** Conecta el dispositivo a la PC mediante cable USB (Asegúrate de aceptar el mensaje de permiso que saldrá en la pantalla del celular al conectarlo).
-3. Descarga la Release 1.0 de https://github.com/Osas34091/DB-Legends-Coop-Auto-Farmer/releases/tag/Releases
+3. Descarga la Release 1.0 de https://github.com/Osas34091/DB-Legends-Coop-Auto-Farmer/releases/tag/V1.0
 4. **Dragon Ball Legends** en español o remplaza las imagenes de /Images con tu idioma
 ---
 
